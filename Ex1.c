@@ -15,5 +15,5 @@ void main()
     float media = (teste1+teste2)/2;
 
     // 3- Apresentar resultado da media
-    printf("Media: %f \n Teste 1: %f - Teste 2: %f", media, teste1, teste2);
+    printf("Media: %f", media);
 }
