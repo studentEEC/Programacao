@@ -13,7 +13,6 @@ void main()
     if(numero%3 == 0)
     {
         numero = numero+1;
-        printf("Numero é divisivel");
+        printf("Numero divisivel");
     }
-
 }
