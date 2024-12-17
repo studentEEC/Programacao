@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "stdio.h": "c",
-        "Ex3_While_v2.C": "cpp"
+        "Ex3_While_v2.C": "cpp",
+        "string.h": "c"
     }
 }
